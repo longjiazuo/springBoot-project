@@ -15,5 +15,6 @@
 		<module>springBoot-config</module>
 		<module>springBoot-configFile</module>
     <module>springBoot-xml</module>
+    <module>springBoot-properties</module>
   </modules>
 </project>
