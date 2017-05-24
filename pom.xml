@@ -18,5 +18,6 @@
     <module>springBoot-properties</module>
     <module>springBoot-save-properties</module>
     <module>springBoot-profile</module>
+    <module>springBoot-log</module>
   </modules>
 </project>
