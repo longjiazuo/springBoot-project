@@ -1,4 +1,4 @@
-# springBoot-project
+# springBoot-project【持续更新中...】
 Spring Boot整理总结样例,在每篇文章后面有对应源代码地址链接。
 #### Spring Boot系列教程<br>
 Github项目地址：<a href="https://github.com/longjiazuo/springBoot-project" target="_blank">https://github.com/longjiazuo/springBoot-project <br>
