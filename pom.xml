@@ -19,5 +19,6 @@
     <module>springBoot-save-properties</module>
     <module>springBoot-profile</module>
     <module>springBoot-log</module>
+    <module>springBoot-aop</module>
   </modules>
 </project>
